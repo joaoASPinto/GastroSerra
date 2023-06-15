@@ -118,6 +118,9 @@ h2,
   display: inline-block;
   margin: 0.5em;
 }
+.ul-icons {
+  padding: 0;
+}
 .hidden {
   width: 0;
   height: 0;
